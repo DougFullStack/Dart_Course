@@ -9,6 +9,6 @@ void main() {
   var b = false;
   var c = true;
 
-  var resultado = (a && b) || (c && !b);
+  var resultado = (a && b) || (c && !b); //
   print(resultado);
 }
