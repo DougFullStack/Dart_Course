@@ -1,3 +1,5 @@
+// getter serve para obter e setter para configurar.
+
 class conta {
   double saldo = 0;
   double _saque = 0;
